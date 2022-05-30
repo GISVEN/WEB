@@ -1,0 +1,10 @@
+.NavBarDropItem:hover {
+    background-color: gray
+}
+
+.NavBarDropItem#LogIn:hover {
+    background-color:rgba(100,255,100, 0.3);
+}
+.NavBarDropItem#LogOut:hover {
+    background-color:rgba(255,100,100, 0.3);
+}
